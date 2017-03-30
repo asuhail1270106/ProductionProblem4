@@ -512,7 +512,7 @@ tr:hover
 .image
 {
   position: relative;
-  float: center;
+  float: none;
   width:  6.25em;
   height: 6.25em;
 }	
