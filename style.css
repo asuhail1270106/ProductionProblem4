@@ -465,7 +465,7 @@ body
   background-image: url("pictures/PP4-BG2.jpg");
   background-size:cover;
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight:bold;
   min-height:100%;
 }
