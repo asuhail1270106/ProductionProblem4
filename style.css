@@ -472,54 +472,57 @@ body
 
 html 
 {
-	color: white;
+  color: white;
 }
 
 h1
 {
-	text-align:center;
+  text-align:center;
 }
 
 table 
 {
-	table-layout: fixed;
-	width: 75%;
-	border-collapse: collapse;
-	border: .15em solid white;
-	margin: 0 auto;
-	overflow: hidden;
+  table-layout: fixed;
+  width: 75%;
+  border-collapse: collapse;
+  border: .15em solid white;
+  margin: 0 auto;
+  overflow: hidden;
 }
 
-th, td {	
-	padding: .5em;
-	letter-spacing: 0em;
-	text-align: center;
-	border-bottom: 1px solid white;
+th, td 
+{	
+  padding: .5em;
+  letter-spacing: 0em;
+  text-align: center;
+  border-bottom: 1px solid white;
 }
 
 th
 {
-	background-color: blue;
-    color: white;
+  background-color: blue;
+  color: white;
 }
 
 tr:hover 
-
-{background-color: grey}
+{
+  background-color: grey
+}
 
 .image
 {
-	position: relative;
-    float: center;
-    width:  6.25em;
-    height: 6.25em;
+  position: relative;
+  float: center;
+  width:  6.25em;
+  height: 6.25em;
 }	
 
 #footer
 {
-	text-align: center;
+  text-align: center;
 }
+
 a:link
 {
-	color: red;
+  color: red;
 }
