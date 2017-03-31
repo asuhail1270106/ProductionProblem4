@@ -500,13 +500,13 @@ th, td
 
 th
 {
-  background-color: blue;
+  background-color: #800000;
   color: white;
 }
 
 tr:hover 
 {
-  background-color: grey
+  background-color: #8B008B
 }
 
 .image
