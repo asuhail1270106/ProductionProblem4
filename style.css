@@ -504,7 +504,7 @@ th
   color: white;
 }
 
-tr:hover 
+tr.c1:hover 
 {
   background-color: #8B008B
 }
