@@ -509,6 +509,36 @@ tr.c1:hover
   background-color: #8B008B
 }
 
+tr.c2:hover 
+{
+  background-color: #4B0082
+}
+
+tr.c3:hover 
+{
+  background-color: #000080
+}
+
+tr.c4:hover
+{
+  background-color: #008080
+}
+
+tr.c5:hover 
+{
+  background-color: #FFD700
+}
+
+tr.c6:hover 
+{
+  background-color: #FF8C00
+}
+
+tr.c7:hover 
+{
+  background-color: #8B0000
+}
+
 .image
 {
   position: relative;
